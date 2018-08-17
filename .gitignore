@@ -10,3 +10,7 @@
 *.class
 .checkstyle
 /.idea
+.classpath
+.project
+.settings
+target
